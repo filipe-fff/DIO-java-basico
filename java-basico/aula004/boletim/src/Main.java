@@ -6,7 +6,7 @@ public class Main {
         if(nota > 6) System.out.println("APROVADO!");
 
         else if(nota == 6) System.out.println("RECUPERAÇÃO!");
-        
+
         else System.out.println("REPROVADO!");
     }
 }
