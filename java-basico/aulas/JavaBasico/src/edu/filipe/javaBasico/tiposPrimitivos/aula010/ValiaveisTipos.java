@@ -1,4 +1,4 @@
-package edu.filipe.javaBasico.tiposPrimitivos.aula008;
+package edu.filipe.javaBasico.tiposPrimitivos.aula010;
 
 public class ValiaveisTipos {
     public static void main(String [] args)
