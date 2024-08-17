@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DIO-java-basico.iml" filepath="$PROJECT_DIR$/.idea/DIO-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aulas/JavaBasico/JavaBasico.iml" filepath="$PROJECT_DIR$/java-basico/aulas/JavaBasico/JavaBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aula001/aula001.iml" filepath="$PROJECT_DIR$/java-basico/aula001/aula001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aula002/aula002.iml" filepath="$PROJECT_DIR$/java-basico/aula002/aula002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aula003/aula003.iml" filepath="$PROJECT_DIR$/java-basico/aula003/aula003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aula004/aula004.iml" filepath="$PROJECT_DIR$/java-basico/aula004/aula004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aula005/aula005.iml" filepath="$PROJECT_DIR$/java-basico/aula005/aula005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basico/aulas/aulasJavaBasico/aulasJavaBasico.iml" filepath="$PROJECT_DIR$/java-basico/aulas/aulasJavaBasico/aulasJavaBasico.iml" />
+    </modules>
+  </component>
+</project>
